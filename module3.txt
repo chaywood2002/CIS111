@@ -1,0 +1,14 @@
+1. Requests: 
+	Requests simplifies the way a python program can handle http requests. It makes handlign these requests easier for the user, making it simpler to send and recieve data over the web.
+
+2. Tkinter 
+	Tkinter is a package that makes it easier to create GUI for Python programs. This can help when programming desktop programs, and it provides a simple way to get started with making a GUI
+
+3. Pygame 
+	Pygame helps when writing code for game development. It is accessible, and helps inexperienced users develop their games. It can not only manage code, but graphics and sound as well. 
+
+4. Kivy
+	Kivy is a package that aims to help users create interfaces for touch screen programs. 
+
+5. SciPy
+	Helps with programs for scientific computing, providing mathematical resources to the user.
